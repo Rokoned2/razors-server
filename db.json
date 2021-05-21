@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+       "id": "1",
+       "name": "navaja razor",
+       "price": "7.99",
+       "image": "http://localhost:5000/uploads\\navajarazor.png"
+      },
+     {
+       "id": "2",
+       "name": "maquinilla gillete naranja",
+       "price": "7.99",
+       "image": "http://localhost:5000/uploads\\maquinillagilletenaranja.png"
+     },
+     {
+       "id": "3",
+       "name": "afeitadora eléctrica panasonic",
+       "price": "24.99",
+       "image": "http://localhost:5000/uploads\\afeitadoraelectricapanasonic.png"
+     },
+   
+     {
+       "id": "4",
+       "name": "cuchilla de afeitar",
+       "price": "7.99",
+       "image": "http://localhost:5000/uploads\\cuchilladeafeitar.png"
+     }
+  ],
+
+  "featured-products": [
+    {
+       "id": "1",
+       "name": "navaja razor",
+       "price": "7.99",
+       "image": "http://localhost:5000/uploads\\navajarazor.png"
+    },
+    {
+       "id": "2",
+       "name": "maquinilla gillete naranja",
+       "price": "7.99",
+       "image": "http://localhost:5000/uploads\\maquinillagilletenaranja.png"
+    }
+  ]
+}
